@@ -1,0 +1,7 @@
+\\cs1\2018\eparslow18\CS320-1\UnitTestProject1QA\UnitTestProject1QA\bin\Debug\UnitTestProject1QA.dll
+\\cs1\2018\eparslow18\CS320-1\UnitTestProject1QA\UnitTestProject1QA\bin\Debug\UnitTestProject1QA.pdb
+\\cs1\2018\eparslow18\CS320-1\UnitTestProject1QA\UnitTestProject1QA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\cs1\2018\eparslow18\CS320-1\UnitTestProject1QA\UnitTestProject1QA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+\\cs1\2018\eparslow18\CS320-1\UnitTestProject1QA\UnitTestProject1QA\obj\Debug\UnitTestProject1QA.csprojResolveAssemblyReference.cache
+\\cs1\2018\eparslow18\CS320-1\UnitTestProject1QA\UnitTestProject1QA\obj\Debug\UnitTestProject1QA.dll
+\\cs1\2018\eparslow18\CS320-1\UnitTestProject1QA\UnitTestProject1QA\obj\Debug\UnitTestProject1QA.pdb
